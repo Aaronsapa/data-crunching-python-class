@@ -1,6 +1,14 @@
 # data-crunching-python-class
 Project to exemplify simple ETL techniques with Python 3 and pandas.
-
+## To-Do
+- [ ] Installing Guides
+- [ ] Finish contents and fix titles
+- [ ] Transform content
+- [ ] Tweets
+- [ ] Check NLP for news
+- [ ] Pandas Tips and Tricks part
+- [ ] OOP
+- [ ] Functional Programming
 
 ## Contents 
 0. Personal Intro
@@ -12,14 +20,11 @@ Project to exemplify simple ETL techniques with Python 3 and pandas.
     5. Hadoop Ecosystem :elephant:
     7. Google Services :moneybag:
     8. AWS Services 
-2. Data Ingestion :bird:
-    1. Tweeter API
-    2. Tweet Stream
-    3. Data Storage
-3. Pandas :snake:
-4. TBD
-5. Simple Viz :chart_with_upwards_trend: :chart_with_downwards_trend:
-6. Open form questions
+3. Hands-On :snake:
+    1. Twitter Stream
+    2. News NLP
+    4. Pandas Tips and Tricks
+4. Open form questions
 
 ## Structure
 
