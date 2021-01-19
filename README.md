@@ -8,12 +8,10 @@ Project to exemplify simple ETL techniques with Python 3 and pandas.
     1. Data Crunching
     2. Understanding Raw Data
     3. Types of Data
-    4. RDBM
+    4. DBMS
     5. Hadoop Ecosystem :elephant:
-    6. Hadoop Alternatives
-    7. Google Services
-    8. AWS Services :moneybag:
-    9. Map Reduce
+    7. Google Services :moneybag:
+    8. AWS Services 
 2. Data Ingestion :bird:
     1. Tweeter API
     2. Tweet Stream
@@ -25,12 +23,10 @@ Project to exemplify simple ETL techniques with Python 3 and pandas.
 
 ## Structure
 
-9:00am - 1:00 pm CT (4 hours total :clock5: ).
+10:00am - 1:00 pm CT (3 hours total :clock5: ).
 
-- 9:00am - 9:45am: Content
-- 9:45am - 10:00am: **Break**
 - 10:00am - 10:45am: Content
 - 10:45am - 11:00am: **Break**
 - 11:00am - 11:45am: Content
-- 11:45am - 12:15pm: **Break**
-- 12:15pm - 1:00pm: Content
+- 11:45am - 12:00pm: **Break**
+- 12:00pm - 12:45pm: Content
