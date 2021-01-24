@@ -1,14 +1,18 @@
 # data-crunching-python-class
 Project to exemplify simple ETL techniques with Python 3 and pandas.
-## To-Do
-- [ ] Installing Guides
-- [ ] Finish contents and fix titles
-- [ ] Transform content
-- [ ] Tweets
-- [ ] Check NLP for news
-- [ ] Pandas Tips and Tricks part
-- [ ] OOP
-- [ ] Functional Programming
+
+## Requirements
+- [Hombrew](https://brew.sh/)
+- [PostgreSQL server](https://www.postgresql.org/download/macosx/)
+    - `brew install postgres`
+- Python 3
+    - `brew install python3`
+- Jupyter Notebook
+- `!pip3 install psycopg2-binary`
+- !pip3 install nltk
+- nltk.download('stopwords')
+- nltk.download('wordnet')
+- !pip install wordcloud
 
 ## Contents 
 0. Personal Intro
@@ -21,9 +25,8 @@ Project to exemplify simple ETL techniques with Python 3 and pandas.
     7. Google Services :moneybag:
     8. AWS Services 
 3. Hands-On :snake:
-    1. Twitter Stream
-    2. News NLP
-    4. Pandas Tips and Tricks
+    1. News NLP
+    2. Twitter Stream
 4. Open form questions
 
 ## Structure
